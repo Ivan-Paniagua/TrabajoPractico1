@@ -1,0 +1,68 @@
+/* Estilos generales */
+body {
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0e9e0;
+}
+
+header {
+    background-color: #232323;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 32px;
+}
+
+h1 {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    color: #;
+    font-weight: bold;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0 0 20px;
+}
+
+main {
+    margin: 20px;
+}
+
+.story {
+    background-color: #ff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #666;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+img {
+    max-width: 55%;
+    height: auto;
+    border: 2px solid #666;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: #232323;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    font-style: italic;
+}
+
+/* Estilo para los párrafos de autor y título */
+p1 {
+    font-style: italic;
+    font-weight: bold;
+    color: #444;
+}
